@@ -1,0 +1,16 @@
+---
+collections:
+  - ansible.posix
+  - ansible.windows
+  - awx.awx
+  - azure.azcollection
+  - ovirt.ovirt
+  - redhatinsights.insights
+  - theforeman.foreman
+  - community.general
+  - ansible.network
+  - ansible.netcommon
+  - ansible.utils
+  - ansible.security
+  - tmichett.gls_collection_demo
+

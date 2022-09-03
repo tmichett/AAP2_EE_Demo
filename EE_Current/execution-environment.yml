@@ -1,0 +1,14 @@
+---
+version: 1
+
+ansible_config: 'ansible.cfg'
+
+dependencies:
+  galaxy: requirements.yml
+  python: requirements.txt
+  system: bindep.txt
+
+build_arg_defaults:
+  EE_BASE_IMAGE: quay.io/ansible/awx-ee:latest 
+    #  builder_image:
+    # name:  quay.io/ansible/ansible-builder:latest
