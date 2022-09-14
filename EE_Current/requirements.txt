@@ -24,4 +24,4 @@ lockfile
 humanfriendly
 cryptography
 bcrypt
-
+python-gitlab
