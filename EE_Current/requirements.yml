@@ -17,3 +17,4 @@ collections:
   - redhat_cop.controller_configuration
   - redhat_cop.ee_utilities
   - redhat_cop.aap_utilities
+  - chocolatey.chocolatey
